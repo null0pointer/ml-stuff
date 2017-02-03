@@ -1,3 +1,6 @@
 https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 https://github.com/gtoderici/sports-1m-dataset
+
+https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.i0wjojnu4
+
